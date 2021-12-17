@@ -1,5 +1,5 @@
 # changingImagesFromNIItoPNG
-the fist code is for changing 3D images to 2D images in png format
+the first code is for changing 3D images to 2D images in png format
 thats the samples after saving them in png 
 ![corona33](https://user-images.githubusercontent.com/34798172/146571569-eac60cca-d546-47e6-9656-fdcf04612ea3.png)
 
