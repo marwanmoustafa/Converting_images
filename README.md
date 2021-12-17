@@ -8,9 +8,10 @@ thats the samples after saving them in png
 ![corona154](https://user-images.githubusercontent.com/34798172/146571555-8d6ad0b6-e72b-42af-9577-72b6c9a60454.png)
 
 ![corona119](https://user-images.githubusercontent.com/34798172/146570879-02fe42e3-066a-48f8-9ce7-b82a7c195d28.png)
-
 ![corona192](https://user-images.githubusercontent.com/34798172/146570863-35d7da18-0d96-4d64-bb55-91b7ec04e56a.png)
+
+
 the next code is to filter the lung masks and remove the images that only black without any data after changing from nii to png format
-![corona45](https://user-images.githubusercontent.com/34798172/146571285-2cba1db5-f9ba-470d-a1c0-41b644065d69.png)
-![corona119](https://user-images.githubusercontent.com/34798172/146571292-f63a0bdf-b9b3-4b38-8cae-c98cabc67413.png)
-![corona192](https://user-images.githubusercontent.com/34798172/146571294-8a75dce5-0a40-4de4-acbc-e5d46aa4d30f.png)
+
+![corona10 (2)](https://user-images.githubusercontent.com/34798172/146572188-fbc14e09-4ad7-466a-bbe3-dfe0e07a0c6e.png)
+![corona100 (1)](https://user-images.githubusercontent.com/34798172/146572206-c73747f6-cfb5-4e4c-bfb1-d84474f895bb.png)
