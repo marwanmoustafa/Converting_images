@@ -18,5 +18,5 @@ the next code is to filter the lung masks and remove the images that only black 
  
  
  Changing series 2D images to 3D .NII  
- sample of the 2D images series :
+ sample of the 2D images series consists os 200 png images :
  ![image](https://user-images.githubusercontent.com/34798172/154839624-239a40ec-8b40-44bb-8de5-b664cccb0b5f.png)
