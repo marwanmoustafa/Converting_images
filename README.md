@@ -21,4 +21,4 @@ the next code is to filter the lung masks and remove the images that only black 
  sample of the 2D images series consists os 200 png images :
  ![image](https://user-images.githubusercontent.com/34798172/154839624-239a40ec-8b40-44bb-8de5-b664cccb0b5f.png)
 ![image](https://user-images.githubusercontent.com/34798172/154840870-340e485f-4045-48c6-8b9d-ce24ddb3c3cd.png)
-
+The converted 3D file is attached with the code
